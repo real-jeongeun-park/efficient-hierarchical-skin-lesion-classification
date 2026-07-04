@@ -18,6 +18,8 @@ Conventional approaches train a separate model for each hierarchy level, which i
 
 This project introduces a **multi-task learning framework** that attaches three independent classification heads to a single shared backbone, enabling simultaneous prediction of subclass, main class, and super class labels from a single model.
 
+<img width="1193" height="385" alt="그림1" src="https://github.com/user-attachments/assets/0b436c22-7c8e-4b88-8da1-1416329a618b" />
+
 ## Method
 
 - **Backbone:** ResNet-34, pre-trained on ImageNet, used as a shared feature extractor.
