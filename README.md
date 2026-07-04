@@ -2,10 +2,9 @@
 
 This repository contains the implementation associated with the paper **"Efficient Hierarchical Skin Lesion Classification via Multi-Task Learning"**, presented at the International Conference on Next-generation Convergence Technology (ICNCT 2026).
 
-**Authors:** Jeongeun Park¹†, Hyeonseo Lim²†, Daesung Kang¹²*
-¹ School of AI Convergence, Sungshin Women's University, Seoul, Republic of Korea
+**Authors:** Jeongeun Park¹†, Hyeonseo Lim²†, Daesung Kang¹²* <br/>
+¹ School of AI Convergence, Sungshin Women's University, Seoul, Republic of Korea<br/>
 ² School of Bio-Health Convergence, Sungshin Women's University, Seoul, Republic of Korea
-*Corresponding author: danniskang@gmail.com
 
 ## Overview
 
